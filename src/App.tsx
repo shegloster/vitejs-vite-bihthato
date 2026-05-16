@@ -15,7 +15,7 @@ const FIREBASE_CONFIG = {
   appId: '1:687250523909:web:8ca55a48e62b4fc8fe996c',
 };
 
-const ADMIN_PIN = '1234'; // Change to your preferred PIN before deploying
+const ADMIN_PIN = '2123'; // Change to your preferred PIN before deploying
 
 // ─────────────────────────────────────────────
 // FIREBASE SDK loaded dynamically
